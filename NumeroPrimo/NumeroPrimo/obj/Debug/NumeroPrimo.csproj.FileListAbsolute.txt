@@ -1,0 +1,10 @@
+C:\Users\ISABEL\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\NumeroPrimo.exe.config
+C:\Users\ISABEL\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\NumeroPrimo.exe
+C:\Users\ISABEL\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\NumeroPrimo.pdb
+C:\Users\ISABEL\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.csprojAssemblyReference.cache
+C:\Users\ISABEL\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.Form1.resources
+C:\Users\ISABEL\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.Properties.Resources.resources
+C:\Users\ISABEL\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.GenerateResource.cache
+C:\Users\ISABEL\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\ISABEL\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.exe
+C:\Users\ISABEL\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.pdb
